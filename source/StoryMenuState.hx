@@ -31,7 +31,7 @@ class StoryMenuState extends MusicBeatState
 			['spookeez', 'south', "monster"],
 			['pico', 'philly', "blammed"],
 			['satin-panties', "high", "milf"],
-			['cocoa', 'eggnog', 'winter-horrorland'],
+			['cocoa', 'eggnog', 'ham', 'winter-horrorland'],
 			['senpai', 'roses', 'thorns']
 		];
 	}
